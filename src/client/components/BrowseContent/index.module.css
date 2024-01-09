@@ -1,0 +1,10 @@
+.content {
+    margin: 5px;
+    padding-left: 20px;
+}
+
+.name:hover {
+    background-color: var(--name-bg-color);
+    text-decoration: underline;
+    text-decoration-color: var(--name-bg-undercolor);
+}

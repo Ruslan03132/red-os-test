@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 120px;
+    min-width: 50%;
+}
+
+.enterButton {
+    align-self: center;
+}
+
+.login {
+    width: 100%;
+}
+
+.passwordError {
+    font-size: var(--font-size-global);
+    line-height: var(--line-height-global);
+    color: var(--name-color-error);
+    margin-bottom: 24px;
+}

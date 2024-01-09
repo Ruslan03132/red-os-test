@@ -1,0 +1,10 @@
+@import url(../../styles/variables/colors.css);
+@import url(../../styles/variables/fonts.css);
+
+.container {
+    min-height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

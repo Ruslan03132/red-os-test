@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 120px;
+    width: 50%;
+}
+
+.filter {
+    margin-top: 24px;
+}
+
+.content {
+    margin-top: 24px;
+    font-size: var(--font-size-global);
+    line-height: var(--line-height-global);
+}
+
+.search {
+    width: 220px;
+}
+
+.sort {
+    width: 160px;
+    margin-left: 20px;
+}

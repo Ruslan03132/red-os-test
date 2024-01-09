@@ -1,0 +1,5 @@
+:root {
+    --name-bg-color: rgba(200, 214, 214, 0.567);
+    --name-bg-undercolor: rgba(81, 81, 81, 0.567);
+    --name-color-error: red;
+}

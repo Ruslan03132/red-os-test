@@ -1,0 +1,4 @@
+const TIME_GET_DATA = 800;
+const TIME_AUTH_USER = 500;
+
+export { TIME_GET_DATA, TIME_AUTH_USER };

@@ -1,0 +1,10 @@
+.navigationBlock {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 24px;
+}
+
+.main + .browse {
+    margin-left: 24px;
+}
